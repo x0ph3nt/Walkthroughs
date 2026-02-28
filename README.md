@@ -2,7 +2,7 @@
 
 Welcome to my TryHackMe journey 🚀  
 
-This repository contains my writeups, notes, and practical learning from various TryHackMe rooms.
+This repository contains my writeups and practical learning from various TryHackMe rooms.
 
 ---
 
