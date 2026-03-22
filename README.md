@@ -1,21 +1,22 @@
-# 🛡️ TryHackMe Writeups
+# 🗂️ Walkthroughs
 
-Welcome to my TryHackMe journey 🚀  
-
-This repository contains my writeups and practical learning from various TryHackMe rooms.
+Collection of my cybersecurity walkthroughs 🚀
 
 ---
 
-## 🎯 Goals
-
-- Improve penetration testing skills  
-- Prepare for advanced certifications  
-- Build strong methodology & documentation habits  
+## Platforms
+- **THM** – TryHackMe rooms
+- **HTB** – Hack The Box machines
+- **Other** – CTFs, VulnHub, personal labs
 
 ---
 
-## 📈 Progress
+## Purpose
+- Improve pentesting skills
+- Build structured methodology
+- Prepare for certifications
+- Maintain clear documentation
 
-I’m continuously updating this repository as I complete more rooms.
+---
 
-Stay tuned 👨🏻‍💻🔥
+💡 Try challenges yourself before checking walkthroughs for maximum learning.
